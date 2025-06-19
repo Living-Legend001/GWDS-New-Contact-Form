@@ -208,6 +208,7 @@ button{
 .fa-square-facebook {
 	color: #0000ff;
 	font-size: 30px;
+	
 }
 
 
@@ -219,9 +220,9 @@ button{
 	overflow: hidden;
 	text-align: center;
 	height: 80px;
-	margin-top: 1220px;
+	margin-top: 1230px;
 	background-color: black;
-	padding-bottom: -9px;
+	margin-bottom: -22px;
 }
 	
 
@@ -539,7 +540,7 @@ nav {
 	overflow: hidden;
 	text-align: center;
 	height: 80px;
-	margin-top: 1225px;
+	margin-top: 1240px;
 	background-color: black;
 }
 
