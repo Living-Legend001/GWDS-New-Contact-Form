@@ -534,12 +534,12 @@ nav {
 
 
 .last-footer {
-	padding-top: 25px;
+	padding-top: 20px;
 	width: 100%;
 	overflow: hidden;
 	text-align: center;
 	height: 80px;
-	margin-top: 1330px;
+	margin-top: 1225px;
 	background-color: black;
 }
 
@@ -569,6 +569,20 @@ nav {
 .envelope {
 	width: 80%;
 }
+
+
+
+.last-footer {
+	padding-top: 20px;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+	height: 80px;
+	margin-top: 1180px;
+	background-color: black;
+}
+
+
 
 ul li  {
 	
