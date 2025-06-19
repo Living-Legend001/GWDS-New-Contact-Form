@@ -86,7 +86,7 @@ ul li a:hover {
 
 .main-container {
     position: absolute;
-    top: 48%;
+    top: 295px;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 450px;
@@ -212,12 +212,6 @@ button{
 
 
 
-.fa-square-facebook {
-	color: #0000ff;
-	font-size: 30px;
-}
-
-
 
 .last-footer {
 	padding-top: 25px;
@@ -225,8 +219,9 @@ button{
 	overflow: hidden;
 	text-align: center;
 	height: 80px;
-	margin-top: 1230px;
+	margin-top: 1220px;
 	background-color: black;
+	padding-bottom: -9px;
 }
 	
 
@@ -533,6 +528,19 @@ nav {
 
 .envelope {
 	width: 80%;
+}
+
+
+
+
+.last-footer {
+	padding-top: 25px;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+	height: 80px;
+	margin-top: 1330px;
+	background-color: black;
 }
 
 }
